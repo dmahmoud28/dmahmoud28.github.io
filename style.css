@@ -4,7 +4,7 @@
 
 body {
   margin: 0;
-  background: #49034c;
+  background: #320348;
   color: #9a5fa5;
   font-family: "Helvetica Neue", Georgia, 'Times New Roman', Times, serif, serif, sans-serif;
 }
@@ -174,12 +174,12 @@ nav {
   border-color: #1a1a2e;
 }
 nav h1 {
-  color: #ac0fb4;
+  color: #ac2bcc;
 }
 .nav-li a {
-  color: #d721ce;
+  color: #9a21d7;
 }
 .nav-li a:hover {
-  background: #c20de6;
-  color: #fff;
+  background: #5e3c88;
+  color: #050305b4;
 }
